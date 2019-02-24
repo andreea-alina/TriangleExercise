@@ -38,7 +38,7 @@ public class Main {
 	    
 	    if(side1<=0 || side2<=0 || side3 <=0) {
 	    	
-	    	System.out.println("Negative values and less than 0 are not allowed. Please try again!");
+	    	System.out.println("Negative values or 0 are not allowed. Please try again!");
 	    	return;	
 	    }
 	    
