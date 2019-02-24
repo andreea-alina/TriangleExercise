@@ -27,7 +27,7 @@ According to the above situations the user will be asked to reinsert proper valu
 
 After checking that the values are valid, I have created one class called TriangleConditions. It contains 3 methods that verify the equality of sides based on if-statement conditions.
 
-In the case of equilateral triangle, all three sides must be equal - side1 = side2 = side3.
+In the case of equilateral triangle, all three sides must be equal: side1 = side2 = side3.
 In the case of isosceles triangle, two sides must be equal and different from the third one.
 In the case of scalene triangle, all three sides must be different.
 
