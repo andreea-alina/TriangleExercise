@@ -10,7 +10,7 @@ First of all, when we have the values, it is very important to check 2 statement
 1. the sides must have pozitive values and different from 0 - in Main class I added an if-statement block in which I checked the inserted values:
 
  if (side1<=0 || side2<=0 || side3 <=0) {
-    System.out.println("Negative values and less than 0 are not allowed. Please try again!");
+    System.out.println("Negative values or 0 are not allowed. Please try again!");
     return;	
 }
 
